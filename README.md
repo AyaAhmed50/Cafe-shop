@@ -1,10 +1,8 @@
----
+
 # Café Website
 
 A simple café website built using **HTML** and **CSS**.  
 Currently **desktop layout only**; responsive design coming soon.
-
----
 
 ## 🏠 Features
 
