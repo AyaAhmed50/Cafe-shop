@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # Café Website
 
 A simple café website built using **HTML** and **CSS**.  
@@ -36,8 +32,9 @@ Currently **desktop layout only**; responsive design coming soon.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/AyaAhmed50/Cafe-shop
-````
+git clone https://github.com/YourUsername/cafe-website.git
+
+```
 
 2. Open `index.html` in your browser:
 
