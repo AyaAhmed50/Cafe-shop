@@ -464,7 +464,7 @@ main{
 }
 .Testimonial{
     height: 50vh;
-    background-color: #fff2e4;
+    background-color: #fbe6d2;
     font-family: 'Jost', cursive;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
@@ -555,7 +555,7 @@ main{
 }
 .news{
     height: 95vh;
-    background-color: #fff2e4;
+    background-color: #fbe6d2;
     font-family: 'Jost', 'cursive';
     border: 1px solid black;
 }
