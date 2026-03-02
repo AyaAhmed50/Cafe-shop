@@ -52,7 +52,6 @@ open index.html
 cafe-website/
 │
 ├─ index.html
-├─ about.html          # optional pages
 ├─ css/
 │   └─ style.css
 ├─ images/
