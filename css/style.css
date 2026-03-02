@@ -643,10 +643,14 @@ main{
     color: rgb(98, 95, 95);
 }
 .perks-icon>i:nth-of-type(2){
+    color: #f57709;
     bottom: -70px;
 }
 .perks-item:hover .perks-icon>i{
     transform: translateY(-70px);
+}
+.perks-item>p{
+    color: #878889;
 }
 footer{
     background-color: #171613;
@@ -718,6 +722,7 @@ footer .container{
 }
 .footer-links h3{
     margin-bottom: 15px;
+    
 }
 .footer-links ul{
     list-style: none;
