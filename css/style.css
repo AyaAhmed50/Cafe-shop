@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    transition: all ease 0.1s;
+    transition: all ease 0.5s;
 }
 header{
     position: fixed;
